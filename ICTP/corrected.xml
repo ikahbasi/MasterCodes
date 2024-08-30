@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns="http://quakeml.org/xmlns/bed/1.2">
+  <eventParameters publicID="smi:local/aa4fc90b-f3a7-469e-aeb0-273f3f6a7497">
+    <event publicID="smi:local/a9658778-14c0-4e45-a310-0483a68bd47c">
+      <comment id="smi:local/0fa91a1f-cfbb-4c21-99b9-d9ac58cdfdab">
+        <text>detect_val=7.47793102264</text>
+      </comment>
+      <pick publicID="smi:local/7e530b38-a9a3-4ad8-b2c3-3cd4191bd2b0">
+        <time>
+          <value>2010-01-01T10:38:12.602700Z</value>
+        </time>
+        <waveformID channelCode="HZ" networkCode="SL" stationCode="CEY"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:local/0f7167d5-c10f-4198-9686-c6aa79308a47">
+          <text>cc_max=0.767097</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/fb067128-1f5b-4c38-a4da-fae5bcb7336f">
+        <time>
+          <value>2010-01-01T10:38:15.552700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="JAVS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/c082caf3-30a1-4629-a43c-856056881385">
+          <text>cc_max=0.955645</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/a77968c9-e7b3-45cd-aae8-6e7ae9acccf6">
+        <time>
+          <value>2010-01-01T10:38:15.552700Z</value>
+        </time>
+        <waveformID channelCode="HN" networkCode="SL" stationCode="JAVS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/b1275543-5039-4c4f-a5b1-f31d3e4c9d8f">
+          <text>cc_max=0.970387</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/f17468d0-f187-458b-9bd6-88743f7799d2">
+        <time>
+          <value>2010-01-01T10:38:18.650700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="SKDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/423212b7-6bea-42c3-a387-b2fa4996eb5a">
+          <text>cc_max=0.577316</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/b080aa44-0b95-4025-9aaf-df022b97bf5e">
+        <time>
+          <value>2010-01-01T10:38:12.702700Z</value>
+        </time>
+        <waveformID channelCode="HZ" networkCode="SL" stationCode="JAVS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:local/eaf21680-8006-4fa7-a5e5-2ad4cbfdd557">
+          <text>cc_max=0.943923</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/721c8db2-d4ce-40d9-aca4-2153d59a5b16">
+        <time>
+          <value>2010-01-01T10:38:14.100700Z</value>
+        </time>
+        <waveformID channelCode="HZ" networkCode="SL" stationCode="SKDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:local/2af6f680-b7d0-4b6c-9dc4-aea09ca965b4">
+          <text>cc_max=0.774735</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/445033e8-5442-4fa6-b939-c66e865c2ca5">
+        <time>
+          <value>2010-01-01T10:38:18.950700Z</value>
+        </time>
+        <waveformID channelCode="HN" networkCode="SL" stationCode="KNDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/d5ea12e5-30ed-468c-81a5-ba1695db862e">
+          <text>cc_max=0.48782</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/d258280e-f6c4-46d7-bc1c-480c829c89b2">
+        <time>
+          <value>2010-01-01T10:38:15.652700Z</value>
+        </time>
+        <waveformID channelCode="HN" networkCode="SL" stationCode="CEY"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/bc3c66ab-d33c-4fae-b8ce-6be600932584">
+          <text>cc_max=0.482972</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/37ea7bce-a9dc-4474-bb26-c908bc864c40">
+        <time>
+          <value>2010-01-01T10:38:18.650700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="SKDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/2d5a9bcf-e29e-47bf-925a-5356da86c833">
+          <text>cc_max=0.424727</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/02bdc928-985b-45ec-a221-0348f0f51602">
+        <time>
+          <value>2010-01-01T10:38:14.500700Z</value>
+        </time>
+        <waveformID channelCode="HZ" networkCode="SL" stationCode="KNDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:local/eee63d82-28e5-494e-95bf-49b4124d2d6c">
+          <text>cc_max=0.448876</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/f2dc3ac4-388f-4193-b6ad-819b0313c79a">
+        <time>
+          <value>2010-01-01T10:38:19.000700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="KNDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/b62435e6-f797-4211-b79c-0aa1286db1da">
+          <text>cc_max=0.644434</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+    </event>
+    <event publicID="smi:local/d9d1b1cf-3211-465c-a9bf-a179b82b3190">
+      <comment id="smi:local/fb623774-ccb3-4db9-83ec-d80e968753a0">
+        <text>detect_val=5.28041300178</text>
+      </comment>
+      <pick publicID="smi:local/43c5bb27-1108-429b-a896-dfba2ee91ebb">
+        <time>
+          <value>2010-01-01T04:43:28.102700Z</value>
+        </time>
+        <waveformID channelCode="HZ" networkCode="SL" stationCode="CEY"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:local/26443d2e-2324-4cd8-b9c8-bf4edc87d2df">
+          <text>cc_max=0.653552</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/92d61f36-6abe-4419-a5ac-28bae2be42f6">
+        <time>
+          <value>2010-01-01T04:43:30.952700Z</value>
+        </time>
+        <waveformID channelCode="HN" networkCode="SL" stationCode="CEY"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/167f099f-8597-4972-9ded-72eb2c070e98">
+          <text>cc_max=0.504487</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/cc1e6cdf-49eb-42d8-b478-245079b199b0">
+        <time>
+          <value>2010-01-01T04:43:30.952700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="JAVS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/089469ab-f45a-4c88-b642-6fed59bcd841">
+          <text>cc_max=0.732204</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/e919a690-ad44-4d80-b986-49c9fac22c62">
+        <time>
+          <value>2010-01-01T04:43:30.952700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="JAVS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/b1e56bb4-afea-4d41-94c5-5df8bd63904f">
+          <text>cc_max=0.680583</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/7e1e952e-8ae2-4362-af19-335e6e482d3b">
+        <time>
+          <value>2010-01-01T04:43:34.100700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="SKDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/0bb535e7-f299-42b3-ab2d-9b61fb72303a">
+          <text>cc_max=0.673672</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/b501d24c-1258-464a-a70f-61d07e397463">
+        <time>
+          <value>2010-01-01T04:43:28.202700Z</value>
+        </time>
+        <waveformID channelCode="HZ" networkCode="SL" stationCode="JAVS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>P</phaseHint>
+        <comment id="smi:local/8254bf18-11c1-4ce0-b799-001344e3c102">
+          <text>cc_max=0.600182</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/4a037fa0-d9b5-42fd-bf6a-a23bee918194">
+        <time>
+          <value>2010-01-01T04:43:34.100700Z</value>
+        </time>
+        <waveformID channelCode="HE" networkCode="SL" stationCode="SKDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/a2a7d5db-716c-411d-8735-4d5c6d4b0b75">
+          <text>cc_max=0.440735</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/e6b203dd-96ae-4cfa-968f-3a4b5c0ec4e9">
+        <time>
+          <value>2010-01-01T04:43:34.500700Z</value>
+        </time>
+        <waveformID channelCode="HN" networkCode="SL" stationCode="KNDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/ccaeab98-f1e6-4161-8940-3b0211f9b5cb">
+          <text>cc_max=0.550513</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:local/36673f4e-8b27-46fa-bc88-94a60db84408">
+        <time>
+          <value>2010-01-01T04:43:34.500700Z</value>
+        </time>
+        <waveformID channelCode="HN" networkCode="SL" stationCode="KNDS"></waveformID>
+        <methodID>smi:local/EQcorrscan</methodID>
+        <phaseHint>S</phaseHint>
+        <comment id="smi:local/a5eb9a6b-cb93-4a11-8d8a-52e762f09d89">
+          <text>cc_max=0.444486</text>
+        </comment>
+        <creationInfo>
+          <agencyID>eqcorrscan.core.lag_calc</agencyID>
+        </creationInfo>
+      </pick>
+    </event>
+  </eventParameters>
+</q:quakeml>
