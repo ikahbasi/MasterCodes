@@ -1,0 +1,6 @@
+# GMT common arguments shelf
+-JM10c
+-JX12c/-6c
+-R47.0600/48.1800/32.3600/33.1200
+-jM10c
+EOF
